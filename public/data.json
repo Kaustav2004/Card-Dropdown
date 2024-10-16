@@ -1,0 +1,56 @@
+{
+    "totalEarnings": "₹60.00",
+    "selfEarnings": "₹8.00",
+    "referralEarnings": "₹52.00",
+    "rewardEarnings": "₹0.00",
+    "referrals": [
+      {
+        "id": 47,
+        "username": "Diyasharma",
+        "timeAgo": "3s",
+        "amount": "₹2.00",
+        "earnType": "Referral-Kyc",
+        "date": "Sat Nov 19 2022",
+        "fullName": "Diya Sharma",
+        "userStatus": "Premium",
+        "details": "Referral-Kyc"
+      },
+      {
+        "id": 48,
+        "username": "JohnDoe",
+        "timeAgo": "5m",
+        "amount": "₹50.00",
+        "earnType": "Referral-Bonus",
+        "date": "Sun Oct 15 2023",
+        "fullName": "John Doe",
+        "userStatus": "Standard",
+        "details": "Referral-Bonus"
+      }
+    ],
+    "selfTransactions": [
+      {
+        "id": 101,
+        "amount": "₹5.00",
+        "earnType": "Task Completion",
+        "date": "Mon Nov 15 2023",
+        "details": "Completed daily task"
+      },
+      {
+        "id": 102,
+        "amount": "₹3.00",
+        "earnType": "App Use Bonus",
+        "date": "Wed Nov 12 2023",
+        "details": "Bonus for frequent app use"
+      }
+    ],
+    "rewardTransactions": [
+      {
+        "id": 201,
+        "amount": "₹0.00",
+        "earnType": "Reward",
+        "date": "No rewards earned yet",
+        "details": "You haven't earned any rewards yet."
+      }
+    ]
+  }
+  
